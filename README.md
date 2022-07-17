@@ -6,6 +6,8 @@ var obj2 = {"age":"5","name":"Person 1"};
 
 console.log(JSON.stringify(obj1) == JSON.stringify(obj2));
 
+//SIR IM USING THE API LINK GIVEN IN CLASS SINCE THE API LINK YOU HAVE GIVEN IN DOCUMENT IS SHOWING STATUS 304 ERROR
+
 2nd Question
 
 var req = new XMLHttpRequest();
